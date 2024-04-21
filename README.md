@@ -1,2 +1,3 @@
 # WebDevolopment
-TASK - 1
+index.html
+style.css
